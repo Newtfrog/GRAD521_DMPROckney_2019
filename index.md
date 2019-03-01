@@ -6,6 +6,11 @@ Transact 3 – collected 10 nights
 Transact 4 – collected 6 nights (when heavy rain, parts were impassable)
 Transact 5 – collected 2 nights (only in March and April)
 
+# Roles and responsibilities
+Heidi Rockney, as the sole PI and funder will have all responsibility maintaining data access and storage. The research data deos not belong to any instiitute or government agency. Heidi Rockney will keep the data accessible through GitHub and her personal website (https://heidirockney.wixsite.com/thisandthat/research). The data generated will be presented in a peer-reviewed journal and science communication short video. All data is under Heidi Rockney's copyright.
+
+# Data standards and metadata
+The following data were collected:
 Data collected:
 1)	Type of habitat and disturbance level was noted on each transact. (i.e. redwood vs. mixed oak) 
 2)	Presence of water (and if permanent vs. ephemeral)
@@ -25,9 +30,7 @@ Data collected:
   b.	Level of activity (are they partially in hole or all the way out – if I could see 4 legs I counted them as out)
   c.	Age of salamander (hatchling, juvenile, adult (small or large))
 
-# Roles and responsibilities
-
-# Data standards and metadata
+All temperature and humdity readings were taken with a fluke 921 temperature and Humidity probe. All data on moon phase, set and time as well as sunset time were gathered from https:/willyweather.com. Level of disturbace and habitat type are subjectable, so photos and videos were taken for each transact.
 
 # Storage and security
 
