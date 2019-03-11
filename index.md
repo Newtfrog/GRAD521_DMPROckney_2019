@@ -41,7 +41,8 @@ All temperature and humdity readings were taken with a fluke 921 temperature and
 All data will be stored at a minimum of three locations. There will be publicably accessible data on GitHub, there will be 2 personal backups and data will also be store in icloud. The data will be acessible for a minimum of 10 years.
 
 # Access and data sharing
+Data from this research will be made available to the public after publication, for a minimum of ten years through Git. Although, I intend to utilize maps of where certain species are, which will not be included in public domain, but will be available upon request, as some of these species are sensitive and difficult to find and can be grabbed up for the exotic amphibian trade. The information of the environmental conditions and numbers of species and salamander totals found will be made available, as well as my analysis (and r codes used, etc.) and final findings. Information will be provided in a csv format and is available for reuse, redistribution, as long as final manuscript is properly cited.
 
 # Archiving and preservation
-
+The PI on this research, Heidi Rockney will maintain the Git depository of data after publication has been finalized for a minimum of ten years. The raw data will be in a csv format and the analysis steps and codes will be made available in a word document. PI will also maintain all data on two different backup drives for a minimum of ten years. Any questions regarding the information can be sent to PI at amphibiannut@gmail.com
 Repository with source code [here](https://github.com/clarallebot/GRAD521_DMPtemplate)
